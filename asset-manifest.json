@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bassamalasadi/user-crm/static/css/main.55a41a94.chunk.css",
-    "main.js": "/bassamalasadi/user-crm/static/js/main.f39e736e.chunk.js",
-    "main.js.map": "/bassamalasadi/user-crm/static/js/main.f39e736e.chunk.js.map",
+    "main.js": "/bassamalasadi/user-crm/static/js/main.0052d8b5.chunk.js",
+    "main.js.map": "/bassamalasadi/user-crm/static/js/main.0052d8b5.chunk.js.map",
     "runtime-main.js": "/bassamalasadi/user-crm/static/js/runtime-main.16bfc710.js",
     "runtime-main.js.map": "/bassamalasadi/user-crm/static/js/runtime-main.16bfc710.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/bassamalasadi/user-crm/static/css/2.4c97ca4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.e3e2685c.chunk.js",
     "static/css/main.55a41a94.chunk.css",
-    "static/js/main.f39e736e.chunk.js"
+    "static/js/main.0052d8b5.chunk.js"
   ]
 }
