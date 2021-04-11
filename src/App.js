@@ -6,9 +6,7 @@ import ListUsers from './Components/ListUsers'
 
 function App() {
   return (
-    <div>
-        <ListUsers />
-    </div>
+      <ListUsers />
   );
 }
 
