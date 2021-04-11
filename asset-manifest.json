@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/user-crm/static/css/main.55a41a94.chunk.css",
-    "main.js": "/user-crm/static/js/main.738dcca7.chunk.js",
-    "main.js.map": "/user-crm/static/js/main.738dcca7.chunk.js.map",
+    "main.js": "/user-crm/static/js/main.67edf477.chunk.js",
+    "main.js.map": "/user-crm/static/js/main.67edf477.chunk.js.map",
     "runtime-main.js": "/user-crm/static/js/runtime-main.54973a99.js",
     "runtime-main.js.map": "/user-crm/static/js/runtime-main.54973a99.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/user-crm/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.e3e2685c.chunk.js": "/user-crm/static/js/2.e3e2685c.chunk.js",
-    "static/js/2.e3e2685c.chunk.js.map": "/user-crm/static/js/2.e3e2685c.chunk.js.map",
+    "static/js/2.9f04ca7d.chunk.js": "/user-crm/static/js/2.9f04ca7d.chunk.js",
+    "static/js/2.9f04ca7d.chunk.js.map": "/user-crm/static/js/2.9f04ca7d.chunk.js.map",
     "index.html": "/user-crm/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/user-crm/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.55a41a94.chunk.css.map": "/user-crm/static/css/main.55a41a94.chunk.css.map",
-    "static/js/2.e3e2685c.chunk.js.LICENSE.txt": "/user-crm/static/js/2.e3e2685c.chunk.js.LICENSE.txt"
+    "static/js/2.9f04ca7d.chunk.js.LICENSE.txt": "/user-crm/static/js/2.9f04ca7d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.54973a99.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.e3e2685c.chunk.js",
+    "static/js/2.9f04ca7d.chunk.js",
     "static/css/main.55a41a94.chunk.css",
-    "static/js/main.738dcca7.chunk.js"
+    "static/js/main.67edf477.chunk.js"
   ]
 }
