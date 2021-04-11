@@ -1,38 +1,50 @@
-.App {
-  text-align: center;
+.avatar {
+  width: -moz-fit-content;
+  width: fit-content;
+  background-color: rgba(9, 75, 175, 0.589);
+  padding: 30%;
+  margin: 2% 19%;
+  margin-bottom: 1em;
+  border-radius: 50%;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.avatar-l {
+  position: absolute;
+  width: 3%;
+  height: 3%;
+  top: 18%;
+  left: 42%;
+  font-size: 3rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(253, 253, 253);
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.UserProfile {
+  position: absolute;
+  color: rgb(18, 20, 44);
+  width: 80%;
+  height: 80%;
+  left: 10%;
+  margin: 0px 10px;
+  padding: 5%;
+  background-color: rgba(9, 75, 175, 0.589);
+  border-radius: 15px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.info {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin: 0px -30px;
 }
-
-.App-link {
-  color: #61dafb;
+.info-data {
+  padding: 7%;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.username {
+  position: absolute;
+  background-color: white;
+  padding: 3% 20%;
+  left: 0%;
+  border-radius: 0px 70px 70px 0px;
+}
+.bground {
+  position: fixed;
+  background-color: rgba(89, 91, 110, 0.692);
+  padding: 30%;
+  border-radius: 50%;
 }
