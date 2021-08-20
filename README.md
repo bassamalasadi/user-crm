@@ -2,9 +2,9 @@
 
 This project use React a JavaScript library
 
-## Demo :
+## [ Demo ](https://bassamalasadi.github.io/user-crm/) 
 
-Clon the repo to your machine then run -
+Clone the repo to your machine then run -
 
 ### `npm install`
 
